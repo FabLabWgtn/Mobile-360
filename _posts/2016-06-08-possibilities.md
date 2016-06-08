@@ -1,3 +1,8 @@
+---
+layout: default
+categories: post
+---
+
 ## Possibilities
 
 ### Rigs of phones
