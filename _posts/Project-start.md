@@ -69,3 +69,7 @@ Cons :
 - [Nikon action cam](http://www.nikonusa.com/en/nikon-products/action-cameras/index.page)
 - [Bloggie](http://www.flong.com/blog/2010/modding-the-bloggie-panoramic-lens-accessory/)
 - [0-360](https://www.0-360.com/)
+
+## Interesting links
+
+http://elevr.com/blog/
