@@ -15,7 +15,7 @@ The final result look like that
 
 Can be played on single/multiple flat screen/projector, using like on youtube and moving the view of the video with your mouse, using any VR headset (google cardboard, occulus rift,...)
 
-#### Conclusion (or temporary conclusion)
+### Conclusion (or temporary conclusion)
 
 Multi-phone rig -> adjustable, scalable, large(50$) -> hight res(up to 48K)  -> (heavy software(1000$) or lot of time to do manualy\*) + computer power or time (with a normal computer and high res can be 10h per minute of video)
 
