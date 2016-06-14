@@ -37,6 +37,7 @@ Special 360 lens on top of the recording system, can be a conical or sphere mirr
 - [Gopano](http://agonistica.com/gopano-360-lenses-cameras-iphone/)
 - [Kogeto](http://www.gadgetreview.com/kogeto-dot-review)
 - [Blender to unwrap the video](http://blendersushi.blogspot.co.nz/2011/11/blender-x-iphone-with-gopano-kogeto.html)
+- [unwrap](https://www.youtube.com/watch?v=egsU-sdvUrE&feature=youtu.be)
 
 Pro :
 

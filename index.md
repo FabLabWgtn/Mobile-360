@@ -2,7 +2,6 @@
 layout: default
 title: "Project 360"
 ---
-## Project 360
 
 ### Goals
 
@@ -14,6 +13,9 @@ The final result look like that
 - [Youtube 360](https://www.youtube.com/channel/UCzuqhhs6NWbgTzMuM09WKDQ)
 
 Can be played on single/multiple flat screen/projector, using like on youtube and moving the view of the video with your mouse, using any VR headset (google cardboard, occulus rift,...)
+
+- [easy way with a smartphone(front and back camera)](http://camera360now.xyz/recored-360-degree-video-by-smartphone/)
+- [State of VR for professional(a lot of useful comments)](http://stateofvr.com/)
 
 ### Conclusion (or temporary conclusion)
 
