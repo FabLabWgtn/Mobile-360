@@ -44,6 +44,7 @@ The only tricky part is maybe the audio synchronization...
 ### Batch all the image set with custom software and Hugin batch tool
 
 - batch copy the template project with processing tool (you can easily modify the source code to adapt to your project)
+ * [hugin project copy tool](https://github.com/drachezoil/batch-hugin-project)
  * open the software "batch-Hugin"
  * select the pto project template on the right folder
  * set the start image index and the end index (if the picture are from 1000.tiff to 1952.tiff you put 0 to 952)
