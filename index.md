@@ -20,6 +20,7 @@ Can be played on single/multiple flat screen/projector, using like on youtube an
 ### Conclusion
 
 For the moment the best solution we use is with
+
 - a multi-phone rig for the material
 - adobe premiere and hugin for stitching the video together
 
