@@ -24,7 +24,7 @@ Pro :
 Cons :
 
 -	Very powerful post processing to join all the movie together, 48K seems hard with a standard computer
--	2 main software, complex and expensive (≈700USD), no open source or any easy way found for the moment
+-	2 main software, complex and expensive (≈700USD), open source Possibilities but with a long manual process
 -	Difference of lightning and color that you may can see between each phone on the boundary
 
 ### Special lens
@@ -51,6 +51,11 @@ Cons :
 -	Have to print or buy the special lens, can be expensive and not easy to get around the world
 -	Less definition because of the 360deg on one device [Unwraping explanation](http://singularityhub.com/wp-content/uploads/2012/05/panoramic-unwarping.jpg)
 
+### Conclusion
+
+Multi-phone rig <b>-></b> adjustable, scalable, large(50$) <b>-></b> hight res(up to 48K and more) <b>-></b> (heavy software(1000$) <b>or</b> lot of time to do manually) <b>and</b> (computer power <b>or</b> time (with a normal computer and high res can be 10h++ per minute of video))
+
+Conical Lens($$) <b>-></b> adjustable case(50$) <b>-></b> low res(with 4K we go down to 2K after processing maybe) <b>-></b> no stitching <b>-></b> lite software <b>-></b> low setting/processing time
 
 ### Existing product
 

@@ -5,8 +5,8 @@ categories: post
 
 ## Tutorial for stitching video with premiere and Hugin
 
-The purpose was to use only Open-source software or solution but we have start with premiere for the moment
-each part we do with premiere can be done with an other dedicated Open-source software
+The purpose was to use only Open-source software or solution but we start with premiere for the moment
+Each part we do with premiere can be done with an other dedicated Open-source software
 The only tricky part is maybe the audio synchronization...
 
 ## Process
@@ -69,4 +69,4 @@ The only tricky part is maybe the audio synchronization...
 
  Done!!!
 
-[Result](https://youtu.be/RmWAzwVhAo0)
+## [Result](https://youtu.be/RmWAzwVhAo0)
