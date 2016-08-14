@@ -27,3 +27,5 @@ For the moment the best solution we use is with
 We have to improve the process to replace adobe premiere with other open source tools
 
 We wait the perfect solution for the stitching part from Facebook or Google when they finish the software part.
+
+Project ordered by Max Schleser.

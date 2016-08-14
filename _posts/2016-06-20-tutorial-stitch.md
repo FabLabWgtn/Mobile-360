@@ -34,11 +34,11 @@ The only tricky part is maybe the audio synchronization...
 ### Stitch the first panorama with Hugin
 
 - select one set of image to make the pattern with Hugin and put in a separate folder
-- rename they all to have something like that : 1xxx.tiff, 2xxx.tiff, 3xxx.tiff, 4xxx.tiff
+- rename they all to have something like that : 1abcd.tiff, 2abcd.tiff, 3abcd.tiff, 4abcd.tiff,...
 - carefully do the first panorama with hugin
  * lot of tutorial on their website
  * ![hugin](https://fablabwgtn.github.io/Mobile-360/images/hugin.png "hugin")
-- save the project with this name : xxx.pto
+- save the project with this name : xxxx.pto
 - copy this project file into the folder with all the picture set
 
 ### Batch all the image set with custom software and Hugin batch tool
@@ -47,7 +47,7 @@ The only tricky part is maybe the audio synchronization...
  * [hugin project copy tool](https://github.com/drachezoil/batch-hugin-project)
  * open the software "batch-Hugin"
  * select the pto project template on the right folder
- * set the start image index and the end index (if the picture are from 1000.tiff to 1952.tiff you put 0 to 952)
+ * set the start image index and the end index (if the picture are from 10000.tiff to 10952.tiff you put 0 to 952)
  * start the creation of all the project file
  * ![processing tool](https://fablabwgtn.github.io/Mobile-360/images/batch-processing.png "processing tool")
 - batch stitch the image set with hugin batch tool
