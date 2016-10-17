@@ -30,9 +30,9 @@ We wait the perfect solution for the stitching part from Facebook or Google when
 
 ---
 
-Research Instigator: Dr. Max Schleser
-Co-Founder of the Mobile Innovation Network Australasia [MINA]:
+Research Instigator: Dr. Max Schleser  
+Co-Founder of the Mobile Innovation Network Australasia [MINA]:  
 [www.mina.pro](www.mina.pro)
 
-email: [Max@mina.pro](mailto:Max@mina.pro)
+email: [Max@mina.pro](mailto:Max@mina.pro)  
 twitter: MaxMobile
