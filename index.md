@@ -29,8 +29,12 @@ We have to improve the process to replace adobe premiere with other open source 
 We wait the perfect solution for the stitching part from Facebook or Google when they finish the software part.
 
 Research Instigator: Dr. Max Schleser
+
 Co-Founder of the Mobile Innovation Network Australasia [MINA]:
+
 [www.mina.pro](www.mina.pro)
 
+
 email: [Max@mina.pro](mailto:Max@mina.pro)
+
 twitter: MaxMobile
